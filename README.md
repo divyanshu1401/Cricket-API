@@ -1,6 +1,7 @@
 # README
 
 Go to your terminal or cmd and run git clone https://github.com/divyanshu1401/Cricket-API.git
+
 cd Cricket-API
 now run the following command to get the server up and running
 ->bundle
