@@ -7,8 +7,11 @@ cd Cricket-API
 now run the following command to get the server up and running
 
 ->bundle
+
 ->rails db:migrate
+
 ->rails db:seed
+
 ->rails s
 
 now you can use curl or postman or browser to hit the API
